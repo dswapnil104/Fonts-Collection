@@ -11,12 +11,17 @@ My favorite fonts.
 - [x] NotoSerifCJKsc-hinted
 - [x] Open Sans
 - [x] Pingfang SC
+- [x] Product Sans
 - [x] Roboto
+- [x] Roboto Ext
+- [x] San Francisco Pro
 - [x] SF Compact
+- [x] SF Mono
 - [x] SF Pro
 - [x] SF Pro Text
 - [x] SF UI
 - [x] Uber
+
 
 ## More
 There are more open source fonts.
